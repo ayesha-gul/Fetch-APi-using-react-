@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(241, 182, 163);
+}
+.h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    text-shadow: rgb(230, 218, 215);
+    text-decoration: underline;
+}
